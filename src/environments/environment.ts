@@ -10,7 +10,7 @@ export const environment = {
   stripePublicKey: 'pk_test_rjQKo5c9pcHvDFjFe1mfdKib00Es3eJ831',
   version: 'v0.2.0b',
   test: {
-    guildId: '685862664223850497'
+    guildId: '720623287700291645'
   }
 };
 
